@@ -1,0 +1,9 @@
+body{
+    background-image:url("https://m.media-amazon.com/images/I/51J3enZILNL._SL1080_.jpg");
+}
+
+img{
+    height:400px;
+    width:400px;
+    border: 15px solid brown;
+}
